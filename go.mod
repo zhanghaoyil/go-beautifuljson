@@ -1,3 +1,3 @@
-module github.com/zhanghaoyil/go-beautifuljson
+module github.com/zhanghaoyil/go-beautiguljson
 
 go 1.24.4
